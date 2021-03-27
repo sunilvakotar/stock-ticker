@@ -39,7 +39,7 @@ not need to run the application separately to run any tests.
 
 Build docker image
 ```
-docker build -t modusbox/stock-ticker . 
+docker build -t sunil/stock-ticker . 
 ```
 Run the image
 ```
